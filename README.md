@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Reza, [oo.or.id](https://oo.or.id).
+* Azer, [oo.or.id](https://oo.or.id).
